@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: gainsboro;
+}
+div {
+  width: 500px;
+  height: 541px;
+  margin: 40px auto;
+  border: 1px solid black;
+  position: relative;
+  overflow: hidden;
+  background: black;
+}
+table {
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
